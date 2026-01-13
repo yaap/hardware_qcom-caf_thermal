@@ -1800,8 +1800,8 @@ namespace thermal {
 			TemperatureType::SKIN,
 			{ "skin-msm-therm" },
 			"skin",
-			46500,
-			95000,
+			50000,
+			90000,
 			true,
 		},
 	};
@@ -1897,8 +1897,8 @@ std::vector<std::string> cpu_sensors_cliffs = {
 			TemperatureType::SKIN,
 			{ "sys-therm-4" },
 			"skin",
-			60000,
-			95000,
+			50000,
+			90000,
 			true,
 		},
 	};
